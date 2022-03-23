@@ -1,4 +1,4 @@
-## Olá eu sou a Juliana, tudo bem? 😊
+## Olá, você! Seja bem-vindo(a)! 😊
 📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. 
 👩‍💻 Trabalho como Téncina de Telecomunicações.
 <div align="center">
