@@ -1,6 +1,7 @@
-## Olá, você! Seja bem-vindo(a)! 😊
-📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas. 
-👩‍💻 Trabalho como Téncina de Telecomunicações.
+## 👋  Olá, você! Seja bem-vindo(a)! 😊
+📚 Eu sou a Juliana, atualmente estudante de Análise e Desenvolvimento de Sistemas. 👩‍💻 <br>
+Aqui você verá alguns dos meus trabalhos para a faculdade. <br> São de nível iniciante. Pode ser que você, que também está estudando ainda assim como eu, aproveite algo.😊 <br>
+<hr>
 <div align="center">
   <a href="https://github.com/JulianaFe21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianafe21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
