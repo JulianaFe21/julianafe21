@@ -1,5 +1,5 @@
 ## 👋  Olá, você! Seja bem-vindo(a)! 😊
-📚 Eu sou a Juliana, atualmente estudante de Análise e Desenvolvimento de Sistemas. 👩‍💻 <br>
+📚 Eu sou a Juliana, formada em Análise e Desenvolvimento de Sistemas pela Unigranrio <br>
 Aqui você verá alguns dos meus trabalhos para a faculdade. <br> São de nível iniciante. Pode ser que você, que também está estudando ainda assim como eu, aproveite algo.😊 <br>
 <hr>
 <div align="center">
