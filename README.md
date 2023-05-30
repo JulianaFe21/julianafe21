@@ -1,6 +1,6 @@
 ## 👋  Olá, você! Seja bem-vindo(a)! 😊
-📚 Eu sou a Juliana, formada em Análise e Desenvolvimento de Sistemas pela Unigranrio <br>
-Aqui você verá alguns dos meus trabalhos para a faculdade. <br> São de nível iniciante. Pode ser que você, que também está estudando ainda assim como eu, aproveite algo.😊 <br>
+📚 Eu sou a Juliana, formada em Análise e Desenvolvimento de Sistemas pela Unigranrio. Atualmente estou focando mais em Java. Mas espero atualizar o perfil em breve. <br>
+Aqui você verá alguns dos meus trabalhos para a faculdade. <br> São de nível iniciante. Pode ser que você,se ainda estiver estudando, aproveite algo.😊 <br>
 <hr>
 <div align="center">
   <a href="https://github.com/JulianaFe21">
