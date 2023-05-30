@@ -34,4 +34,4 @@ Aqui você verá alguns dos meus trabalhos para a faculdade. <br> São de nível
  
   ![Snake animation](https://github.com/julianafe21/julianafe21/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+  </div>
