@@ -1,6 +1,6 @@
 ## 👋  Olá, você! Seja bem-vindo(a)! 😊
-📚 Eu sou a Juliana, formada em Análise e Desenvolvimento de Sistemas pela Unigranrio. Atualmente estou focando mais em Java. Mas espero atualizar o perfil em breve. <br>
-Aqui você verá alguns dos meus trabalhos para a faculdade. <br> São de nível iniciante. Pode ser que você,se ainda estiver estudando, aproveite algo.😊 <br>
+📚 Eu sou a Juliana, formada em Análise e Desenvolvimento de Sistemas pela Unigranrio. Atualmente estou estudando Data Science, Python para Data Science, Power BI e Excel. <br>
+Aqui você verá alguns dos meus trabalhos para a faculdade, alguns dos dashboards que eu aprendi e ainda estou aprendendo a fazer e algumas coisas no Google colab. <br> São de nível iniciante. Pode ser que você,se estiver iniciando aproveite algo.😊 <br>
 <hr>
 <div align="center">
   <a href="https://github.com/JulianaFe21">
